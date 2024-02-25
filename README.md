@@ -26,8 +26,10 @@
 
 ### 📊 <samp>stats</samp>
 
-![Ruan's github stats](https://github-readme-stats.vercel.app/api?username=insiwd&show_icons=true&theme=dark&hide_rank=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+<div align="flex-start">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=insiwd&show_icons=true&theme=react&hide_border=true"/> 
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insiwd&layout=compact&theme=react&hide_border=true"/>
+</div>
 
 
 <!--
