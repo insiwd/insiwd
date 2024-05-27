@@ -12,15 +12,19 @@
 
 ### 🤓 <samp>languages and tools</samp>
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<div align="center">
+  <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/Java/Java.png">
+  <img height="60px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/React/React.png">
+  <img height="70px" src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Node.js/Node.js.png">
+  <img height="70px" src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/TypeScript.png"> 
+  <br>
+  <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/GitHub/GitHub.png">
+  <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/C%23/C%23%20Purple.png">
+  <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/Python/Python.png">
+  <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/Vim/VIM.png">
+</div>
 
-
-<br>
+###### logos: @SAWARATSUKI  
 
 #
 
