@@ -22,6 +22,8 @@
   <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/C%23/C%23%20Purple.png">
   <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/Python/Python.png">
   <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/Vim/VIM.png">
+  <br>
+  <img height="68px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/ArchLinux/ArchLinux.png">
 </div>
 
 ###### logos: @SAWARATSUKI  
