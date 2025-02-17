@@ -19,7 +19,7 @@
   <img height="70px" src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/TypeScript.png"> 
   <br>
   <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/GitHub/GitHub.png">
-  <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/C%23/C%23%20Purple.png">
+  <!--<img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/C%23/C%23%20Purple.png">-->
   <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/Python/Python.png">
   <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/Vim/VIM.png">
   <br>
