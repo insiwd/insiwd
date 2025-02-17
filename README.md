@@ -15,7 +15,7 @@
 <div align="center">
   <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/Java/Java.png">
   <img height="60px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/React/React.png">
-  <img height="70px" src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Node.js/Node.js.png">
+  <!--<img height="70px" src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Node.js/Node.js.png">-->
   <img height="70px" src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/TypeScript.png"> 
   <br>
   <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/GitHub/GitHub.png">
