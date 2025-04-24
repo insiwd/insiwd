@@ -33,8 +33,8 @@
 ### 📊 <samp>stats</samp>
 
 <div align="flex-start">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=insiwd&show_icons=true&theme=tokyonight&hide_border=true"/> 
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insiwd&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=insiwd&show_icons=true&theme=gruvbox_light&hide_border=true"/> 
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insiwd&layout=compact&theme=gruvbox_light&hide_border=true"/>
 </div>
 
 
