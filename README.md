@@ -10,7 +10,7 @@
 
 #
 
-### 🤓 <samp>languages and tools</samp>
+### <samp>languages and tools</samp>
 
 <div align="center">
   <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/Java/Java.png">
@@ -30,7 +30,7 @@
 
 #
 
-### 📊 <samp>stats</samp>
+### <samp>stats</samp>
 
 <div align="flex-start">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=insiwd&show_icons=true&theme=gruvbox_light&hide_border=true"/> 
