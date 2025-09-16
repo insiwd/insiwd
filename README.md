@@ -6,7 +6,7 @@
 
 
 <samp>my name is ruan. i like green and sea </samp> 
-- 🌱 <samp>I’m currently learning: Java </samp>
+
 
 #
 
