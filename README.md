@@ -23,6 +23,7 @@
   <br>
   <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/Vim/VIM.png">
   <img height="68px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/ArchLinux/ArchLinux.png">
+  <img height="68px" src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Go%20Lang/jpg/Golang.jpg">
 </div>
 
 ###### logos: @SAWARATSUKI  
