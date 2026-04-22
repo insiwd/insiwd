@@ -15,7 +15,7 @@
   <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/C/C.png">
   <img height="60px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/React/React.png">
   <br>
-  <img height="70px" src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/TypeScript.png"> 
+  <img height="70px" src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/jpg/TypeScript.jpg"> 
   <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/Figma/Figma.png"> 
   <img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/GitHub/GitHub.png">
   <!--<img height="70px" src="https://github.com/theinsidersandrush/ServiceLogos/blob/main/C%23/C%23%20Purple.png">-->
